@@ -1,8 +1,8 @@
 Reflexión de verificación responsable
 
 Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Fecha: 11/05/2026
+Nombre de la rama: JoshuaDaniel_FernandezCastro
 
 Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
 
@@ -12,3 +12,8 @@ Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
 4. ¿Qué relación tiene el formulario “Participa” con la participación ciudadana?
 
 Respuesta:
+
+1. Porque es nuestro deber verificar las fuentes de lo que vayamos a compartir
+2. Ya que gracias a verificar se mantiene la estabilidad evitando conflictos o malinterpretaciones.
+3. El mismo nombre lo dice, ayuda a que todos o la mayoria puedan acceder a la web, inclusión
+4. Este formulario puede ser una forma de participar activamente en la comunidad
